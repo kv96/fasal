@@ -1,0 +1,49 @@
+# Secrets and environment files
+.env
+.env.*
+!.env.example
+
+# Credentials and keys
+*.pem
+*.key
+*.cert
+*.crt
+id_rsa
+id_rsa.*
+*.pfx
+*.p12
+
+# Dependencies and virtual environments
+node_modules/
+venv/
+.venv/
+env/
+.env/
+
+# Build and distribution outputs
+.dist/
+dist/
+build/
+target/
+out/
+__pycache__/
+*.py[cod]
+
+# System and IDE files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files, logs, and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.tmp
+*.bak
+media-generation-*.json
+fasal/assets/img/media-generation-*.json

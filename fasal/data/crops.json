@@ -1,0 +1,1325 @@
+{
+    "categories": [
+        {
+            "blurb": "The staple grains that feed the world — wheat, rice, maize and their kin.",
+            "hindi": "अनाज",
+            "hue": 45,
+            "motif": "grain",
+            "name": "Cereals",
+            "slug": "cereals"
+        },
+        {
+            "blurb": "Hardy, drought-tough small grains making a big comeback.",
+            "hindi": "मोटे अनाज",
+            "hue": 35,
+            "motif": "grain",
+            "name": "Millets",
+            "slug": "millets"
+        },
+        {
+            "blurb": "Protein-packed legumes that also feed the soil nitrogen.",
+            "hindi": "दालें",
+            "hue": 95,
+            "motif": "pod",
+            "name": "Pulses",
+            "slug": "pulses"
+        },
+        {
+            "blurb": "Seeds pressed for cooking oils, from mustard to sunflower.",
+            "hindi": "तिलहन",
+            "hue": 55,
+            "motif": "flower",
+            "name": "Oilseeds",
+            "slug": "oilseeds"
+        },
+        {
+            "blurb": "Everyday kitchen heroes, grown in fields and kitchen gardens.",
+            "hindi": "सब्ज़ियाँ",
+            "hue": 120,
+            "motif": "leaf",
+            "name": "Vegetables",
+            "slug": "vegetables"
+        },
+        {
+            "blurb": "Orchard treasures — sweet, seasonal, and full of stories.",
+            "hindi": "फल",
+            "hue": 15,
+            "motif": "fruit",
+            "name": "Fruits",
+            "slug": "fruits"
+        },
+        {
+            "blurb": "The aromatic seeds, roots and barks that built trade routes.",
+            "hindi": "मसाले",
+            "hue": 25,
+            "motif": "flower",
+            "name": "Spices",
+            "slug": "spices"
+        },
+        {
+            "blurb": "Grown for markets and mills — fibre, sugar and leaf.",
+            "hindi": "नकदी फ़सलें",
+            "hue": 160,
+            "motif": "leaf",
+            "name": "Cash Crops",
+            "slug": "cash-crops"
+        },
+        {
+            "blurb": "Green feed for cattle, goats and the dairy behind them.",
+            "hindi": "चारा फ़सलें",
+            "hue": 100,
+            "motif": "grass",
+            "name": "Fodder Crops",
+            "slug": "fodder-crops"
+        },
+        {
+            "blurb": "Traditional healing plants, from tulsi to ashwagandha.",
+            "hindi": "औषधीय पौधे",
+            "hue": 140,
+            "motif": "leaf",
+            "name": "Medicinal Plants",
+            "slug": "medicinal-plants"
+        },
+        {
+            "blurb": "Blooms for festivals, gardens and everyday joy.",
+            "hindi": "सजावटी फूल",
+            "hue": 330,
+            "motif": "flower",
+            "name": "Ornamental Flowers",
+            "slug": "ornamental-flowers"
+        },
+        {
+            "blurb": "Indoor greens that clean air and lift moods.",
+            "hindi": "सजावटी पौधे",
+            "hue": 150,
+            "motif": "leaf",
+            "name": "Ornamental Plants",
+            "slug": "ornamental-plants"
+        },
+        {
+            "blurb": "The giants — shade, shelter and village landmarks.",
+            "hindi": "पेड़",
+            "hue": 110,
+            "motif": "tree",
+            "name": "Trees",
+            "slug": "trees"
+        }
+    ],
+    "crops": [
+        {
+            "binomial": "Triticum aestivum",
+            "care": [
+                "Sow at 2–5 cm depth with even spacing",
+                "Irrigate at crown-root and flowering stages",
+                "Watch for rust and aphids; rotate crops yearly"
+            ],
+            "cat": "cereals",
+            "desc": "Wheat is the world's most widely grown cereal and the backbone of breads, rotis and noodles across continents. Its slender stalks turn from green to gold as the grain ripens, signalling harvest time.",
+            "facts": [
+                "Wheat was first farmed about 10,000 years ago in the Fertile Crescent.",
+                "One wheat plant can produce 30–50 grains per head."
+            ],
+            "grows": [
+                "Cool-season crop; sown in winter in South Asia",
+                "Well-drained loamy soil, pH 6–7.5",
+                "Needs 50–75 cm of rainfall or irrigation"
+            ],
+            "hindi": "गेहूँ",
+            "hue": 45,
+            "motif": "grain",
+            "name": "Wheat",
+            "slug": "wheat",
+            "tagline": "The golden grain behind every roti.",
+            "tagline_hi": "हर रोटी के पीछे का सुनहरा अनाज।",
+            "uses": [
+                "Flour for roti, bread, noodles and pasta",
+                "Straw used as animal bedding and mulch",
+                "Bran as fibre-rich animal and human food"
+            ]
+        },
+        {
+            "binomial": "Oryza sativa",
+            "care": [
+                "Transplant seedlings into puddled fields",
+                "Keep 2–5 cm standing water till grain-fill",
+                "Drain before harvest; guard against stem borer"
+            ],
+            "cat": "cereals",
+            "desc": "Rice feeds more people than any other crop. Grown in flooded paddies, its young green shoots reflect the sky until the fields turn amber with ripening grain.",
+            "facts": [
+                "There are over 40,000 cultivated varieties of rice.",
+                "Rice paddies are nurseries for fish and ducks in many regions."
+            ],
+            "grows": [
+                "Warm, humid climate; 20–35°C",
+                "Clayey soil that holds standing water",
+                "120–150 cm rainfall, or assured irrigation"
+            ],
+            "hindi": "धान",
+            "hue": 80,
+            "motif": "grain",
+            "name": "Rice",
+            "slug": "rice",
+            "tagline": "The flooded-field grain feeding half the planet.",
+            "tagline_hi": "आधे ग्रह का पेट भरने वाला धान।",
+            "uses": [
+                "Steamed rice, biryani, idli and dosa batter",
+                "Rice bran oil for cooking",
+                "Husk as fuel and straw as fodder"
+            ]
+        },
+        {
+            "binomial": "Zea mays",
+            "care": [
+                "Sow after frost risk passes, 60 cm rows",
+                "Needs nitrogen — side-dress at knee height",
+                "Protect silks from corn earworm"
+            ],
+            "cat": "cereals",
+            "desc": "Maize, or corn, towers over most cereals with its broad leaves and golden cobs wrapped in husk. It is eaten fresh, ground into flour, and widely used as animal feed and industrial starch.",
+            "facts": [
+                "Each silk strand connects to one kernel — unpollinated silks mean missing kernels.",
+                "Maize is the highest-yielding cereal per hectare on average."
+            ],
+            "grows": [
+                "Warm season; 18–27°C is ideal",
+                "Fertile, well-drained loam",
+                "50–100 cm rainfall across the season"
+            ],
+            "hindi": "मक्का",
+            "hue": 55,
+            "motif": "grain",
+            "name": "Maize",
+            "slug": "maize",
+            "tagline": "The tall American grain that became global.",
+            "tagline_hi": "वह लंबा अमेरिकी अनाज जो वैश्विक बन गया।",
+            "uses": [
+                "Roasted bhutta, makki roti and popcorn",
+                "Poultry and cattle feed",
+                "Starch, syrup and biofuel industries"
+            ]
+        },
+        {
+            "binomial": "Pennisetum glaucum",
+            "care": [
+                "Sow with the first monsoon showers",
+                "Thin seedlings to avoid crowding",
+                "Minimal fertiliser needed; avoid waterlogging"
+            ],
+            "cat": "millets",
+            "desc": "Pearl millet, or bajra, thrives where other cereals fail — in hot, sandy soils with little rain. Its candle-like seed heads are a familiar sight across Rajasthan, Gujarat and the Sahel.",
+            "facts": [
+                "Bajra has more iron and fibre than polished rice.",
+                "It matures in just 70–90 days, escaping late-season drought."
+            ],
+            "grows": [
+                "Hot arid zones; tolerates 40°C+",
+                "Sandy, low-fertility soils",
+                "As little as 25–40 cm rainfall"
+            ],
+            "hindi": "बाजरा",
+            "hue": 35,
+            "motif": "grain",
+            "name": "Pearl Millet",
+            "slug": "pearl-millet",
+            "tagline": "The desert grain that laughs at drought.",
+            "tagline_hi": "सूखे को मात देने वाला रेगिस्तानी अनाज।",
+            "uses": [
+                "Bajra roti, khichdi and porridge",
+                "Nutritious fodder for livestock",
+                "Gluten-free flour blends"
+            ]
+        },
+        {
+            "binomial": "Eleusine coracana",
+            "care": [
+                "Transplant seedlings for best yields",
+                "Weed early; ragi competes poorly at first",
+                "Harvest when heads turn brown and dry"
+            ],
+            "cat": "millets",
+            "desc": "Finger millet, or ragi, grows finger-like clusters of small reddish grains. A staple in Karnataka and parts of Africa, it is prized for calcium and slow-release energy.",
+            "facts": [
+                "Ragi has about three times the calcium of wheat.",
+                "Its grains store for years without spoiling — a traditional famine reserve."
+            ],
+            "grows": [
+                "Tropical highlands and plains",
+                "Tolerates poor, shallow soils",
+                "50–100 cm rainfall"
+            ],
+            "hindi": "रागी",
+            "hue": 20,
+            "motif": "grain",
+            "name": "Finger Millet",
+            "slug": "finger-millet",
+            "tagline": "Tiny reddish grains, mighty nutrition.",
+            "tagline_hi": "छोटे लाल दाने, बड़ा पोषण।",
+            "uses": [
+                "Ragi mudde, dosa and porridge",
+                "Malted weaning food for infants",
+                "Straw as quality cattle fodder"
+            ]
+        },
+        {
+            "binomial": "Sorghum bicolor",
+            "care": [
+                "Sow in warm soil above 18°C",
+                "Thin to one strong plant per spot",
+                "Birds love ripening heads — net if needed"
+            ],
+            "cat": "millets",
+            "desc": "Sorghum, or jowar, stands tall with waxy leaves that shrug off heat. A staple across Maharashtra and sub-Saharan Africa, its grain becomes bhakri and porridge.",
+            "facts": [
+                "Sorghum leaves roll up in drought to save water, then unroll after rain.",
+                "It is the world's fifth most produced cereal."
+            ],
+            "grows": [
+                "Hot semi-arid climates",
+                "Adaptable to many soils",
+                "40–80 cm rainfall"
+            ],
+            "hindi": "ज्वार",
+            "hue": 30,
+            "motif": "grain",
+            "name": "Sorghum",
+            "slug": "sorghum",
+            "tagline": "The camel of cereals — built for heat.",
+            "tagline_hi": "अनाजों का ऊँट — गर्मी के लिए बना।",
+            "uses": [
+                "Jowar bhakri and upma",
+                "Sweet sorghum syrup and fodder",
+                "Gluten-free brewing and baking"
+            ]
+        },
+        {
+            "binomial": "Cicer arietinum",
+            "care": [
+                "Sow 5–7 cm deep after monsoon",
+                "Avoid excess irrigation — it invites wilt",
+                "Rotate with cereals to break pest cycles"
+            ],
+            "cat": "pulses",
+            "desc": "Chickpea is India's most loved pulse — the base of chana masala, hummus and roasted snacks. Its small bushy plants fix nitrogen, leaving the soil richer than they found it.",
+            "facts": [
+                "India grows about 70% of the world's chickpeas.",
+                "Chickpea leaves taste tangy — they contain malic acid."
+            ],
+            "grows": [
+                "Cool, dry rabi season",
+                "Well-drained loam; hates waterlogging",
+                "40–60 cm rainfall is plenty"
+            ],
+            "hindi": "चना",
+            "hue": 90,
+            "motif": "pod",
+            "name": "Chickpea",
+            "slug": "chickpea",
+            "tagline": "The humble gram behind chana masala.",
+            "tagline_hi": "छोले मसाले के पीछे का विनम्र चना।",
+            "uses": [
+                "Chana masala, chole and hummus",
+                "Besan (gram flour) for pakoras and sweets",
+                "Roasted as a crunchy snack"
+            ]
+        },
+        {
+            "binomial": "Lens culinaris",
+            "care": [
+                "Sow shallow, 2–3 cm deep",
+                "One or two light irrigations suffice",
+                "Harvest when pods turn yellow-brown"
+            ],
+            "cat": "pulses",
+            "desc": "Lentils cook faster than any other pulse, melting into creamy dals. Their delicate plants carry small pods with flat, lens-shaped seeds in shades of red, green and brown.",
+            "facts": [
+                "Red lentils cook in 15–20 minutes without soaking.",
+                "Lentils are among the oldest cultivated foods — over 9,000 years."
+            ],
+            "grows": [
+                "Cool winter season",
+                "Light loam, good drainage",
+                "Low water needs"
+            ],
+            "hindi": "मसूर",
+            "hue": 15,
+            "motif": "pod",
+            "name": "Lentil",
+            "slug": "lentil",
+            "tagline": "Tiny lens-shaped seeds, giant comfort in dal.",
+            "tagline_hi": "छोटे दाल के दाने, दाल में बड़ा सुकून।",
+            "uses": [
+                "Masoor dal, khichdi and soups",
+                "Sprouted for salads",
+                "Flour for savoury pancakes"
+            ]
+        },
+        {
+            "binomial": "Cajanus cajan",
+            "care": [
+                "Sow at monsoon onset, wide spacing",
+                "Nip the top to encourage branching",
+                "Pick pods as they mature for longer harvest"
+            ],
+            "cat": "pulses",
+            "desc": "Pigeon pea, or toor/arhar, grows into a woody shrub taller than a person, dotted with yellow-red flowers. Its dal is the everyday protein of millions of thalis.",
+            "facts": [
+                "A single pigeon pea plant can live and yield for 3–5 years.",
+                "It is often intercropped with millets and oilseeds."
+            ],
+            "grows": [
+                "Warm kharif season",
+                "Tolerates poor soils and drought",
+                "60–100 cm rainfall"
+            ],
+            "hindi": "अरहर",
+            "hue": 50,
+            "motif": "pod",
+            "name": "Pigeon Pea",
+            "slug": "pigeon-pea",
+            "tagline": "The tall dal plant of the monsoon fields.",
+            "tagline_hi": "मानसूनी खेतों का लंबा दाल वाला पौधा।",
+            "uses": [
+                "Toor dal — the classic yellow dal",
+                "Green pods as a vegetable",
+                "Stems as firewood, leaves as fodder"
+            ]
+        },
+        {
+            "binomial": "Brassica juncea",
+            "care": [
+                "Sow by October for best yields",
+                "Thin to 10–15 cm spacing",
+                "Harvest when pods turn yellow, before shattering"
+            ],
+            "cat": "oilseeds",
+            "desc": "In winter, mustard paints entire districts yellow. Its tiny seeds are crushed into the pungent oil of North Indian kitchens, while the leaves become sarson da saag.",
+            "facts": [
+                "Mustard oil's pungency comes from allyl isothiocyanate.",
+                "The flowers are a major winter forage for honeybees."
+            ],
+            "grows": [
+                "Cool rabi season",
+                "Fertile loam, pH 6–7.5",
+                "Modest water needs"
+            ],
+            "hindi": "सरसों",
+            "hue": 55,
+            "motif": "flower",
+            "name": "Mustard",
+            "slug": "mustard",
+            "tagline": "Yellow seas of winter flowers, pungent oil.",
+            "tagline_hi": "सर्दियों के पीले फूलों का समंदर, तीखा तेल।",
+            "uses": [
+                "Mustard oil for cooking and massage",
+                "Sarson da saag from the leaves",
+                "Seeds as tempering spice"
+            ]
+        },
+        {
+            "binomial": "Arachis hypogaea",
+            "care": [
+                "Ensure loose soil for pods to enter",
+                "Earth up lightly mid-season",
+                "Harvest when leaves yellow; dry pods well"
+            ],
+            "cat": "oilseeds",
+            "desc": "Groundnut flowers above ground, then does something extraordinary — its stalks bend down and push the young pods into the soil to ripen. Digging them up at harvest is half the fun.",
+            "facts": [
+                "Groundnut is a legume, not a true nut — cousin of the pea.",
+                "The burying stalks are called pegs, or gynophores."
+            ],
+            "grows": [
+                "Warm kharif season",
+                "Light sandy loam for easy pegging",
+                "50–75 cm rainfall"
+            ],
+            "hindi": "मूंगफली",
+            "hue": 40,
+            "motif": "pod",
+            "name": "Groundnut",
+            "slug": "groundnut",
+            "tagline": "The nut that ripens underground.",
+            "tagline_hi": "वह मूँगफली जो ज़मीन के नीचे पकती है।",
+            "uses": [
+                "Peanut oil and roasted snacks",
+                "Chikki, chutneys and curries",
+                "Cake left after oil as protein feed"
+            ]
+        },
+        {
+            "binomial": "Helianthus annuus",
+            "care": [
+                "Sow 2–5 cm deep, 45 cm rows",
+                "Support tall stems in windy spots",
+                "Harvest when heads droop and backs yellow"
+            ],
+            "cat": "oilseeds",
+            "desc": "Young sunflowers famously turn their heads to follow the sun across the sky. Their giant golden discs ripen into striped seeds rich in light, heart-friendly oil.",
+            "facts": [
+                "A sunflower head can hold up to 2,000 seeds.",
+                "Only young buds track the sun; mature heads face east."
+            ],
+            "grows": [
+                "Warm season, full sun",
+                "Adaptable soils with drainage",
+                "Moderate rainfall or irrigation"
+            ],
+            "hindi": "सूरजमुखी",
+            "hue": 50,
+            "motif": "flower",
+            "name": "Sunflower",
+            "slug": "sunflower",
+            "tagline": "The flower that tracks the sun.",
+            "tagline_hi": "वह फूल जो सूरज का पीछा करता है।",
+            "uses": [
+                "Sunflower oil for everyday cooking",
+                "Roasted seeds as snacks",
+                "Cut flowers and bee forage"
+            ]
+        },
+        {
+            "binomial": "Solanum lycopersicum",
+            "care": [
+                "Stake or cage to keep fruit off soil",
+                "Water at the base; avoid wetting leaves",
+                "Pinch side shoots for bigger tomatoes"
+            ],
+            "cat": "vegetables",
+            "desc": "Tomato plants sprawl with fragrant, slightly sticky leaves and clusters of fruit that ripen from green to sunset red. Botanically a berry, it is cooked as the world's favourite vegetable.",
+            "facts": [
+                "There are over 10,000 tomato varieties, from cherry to beefsteak.",
+                "Tomatoes ripen faster next to bananas — the ethylene gas helps."
+            ],
+            "grows": [
+                "Warm season; 20–30°C",
+                "Rich, well-drained soil",
+                "Regular even watering"
+            ],
+            "hindi": "टमाटर",
+            "hue": 5,
+            "motif": "fruit",
+            "name": "Tomato",
+            "slug": "tomato",
+            "tagline": "The berry the world cooks as a vegetable.",
+            "tagline_hi": "वह बेरी जिसे दुनिया सब्ज़ी बनाकर खाती है।",
+            "uses": [
+                "Curries, chutneys and sauces",
+                "Salads and sandwiches",
+                "Ketchup, puree and sun-dried"
+            ]
+        },
+        {
+            "binomial": "Solanum tuberosum",
+            "care": [
+                "Hill soil around stems as they grow",
+                "Stop watering when foliage yellows",
+                "Cure tubers in shade before storing"
+            ],
+            "cat": "vegetables",
+            "desc": "Potato grows its treasure underground — swollen stem tips we call tubers. Above, it looks unremarkable; below, a single plant can hide a dozen potatoes.",
+            "facts": [
+                "Potatoes were first farmed in the Andes 7,000+ years ago.",
+                "Green potatoes contain solanine — store them in the dark."
+            ],
+            "grows": [
+                "Cool season crop",
+                "Loose, well-drained soil for tuber growth",
+                "60–80 cm water across season"
+            ],
+            "hindi": "आलू",
+            "hue": 35,
+            "motif": "root",
+            "name": "Potato",
+            "slug": "potato",
+            "tagline": "Buried treasure from the Andes.",
+            "tagline_hi": "एंडीज़ से आया दबा हुआ खज़ाना।",
+            "uses": [
+                "Aloo paratha, fries and curries",
+                "Starch for industry",
+                "Seed tubers for next planting"
+            ]
+        },
+        {
+            "binomial": "Allium cepa",
+            "care": [
+                "Keep beds weed-free; onions hate competition",
+                "Reduce watering as bulbs swell",
+                "Harvest when tops fall over naturally"
+            ],
+            "cat": "vegetables",
+            "desc": "Onion begins as a slender green shoot and swells into layered bulbs underground. Slice one and your eyes water — that's the plant's chemical defence, and the start of every good tadka.",
+            "facts": [
+                "Onions were worshipped in ancient Egypt as symbols of eternity.",
+                "The tear gas is a compound called syn-propanethial-S-oxide."
+            ],
+            "grows": [
+                "Cool, dry maturing period",
+                "Friable soil, pH 6–7",
+                "Moderate irrigation"
+            ],
+            "hindi": "प्याज़",
+            "hue": 300,
+            "motif": "bulb",
+            "name": "Onion",
+            "slug": "onion",
+            "tagline": "Layers of flavour, tears of joy.",
+            "tagline_hi": "स्वाद की परतें, खुशी के आँसू।",
+            "uses": [
+                "Base of curries via onion-tomato masala",
+                "Raw in salads and chaat",
+                "Pickled and caramelised"
+            ]
+        },
+        {
+            "binomial": "Mangifera indica",
+            "care": [
+                "Plant grafted saplings for true-to-type fruit",
+                "Water young trees; mature ones are hardy",
+                "Prune lightly after harvest"
+            ],
+            "cat": "fruits",
+            "desc": "The mango tree can live a century, spreading a broad canopy over village courtyards. Its fruit — fragrant, golden, unapologetically juicy — is called the king of fruits for good reason.",
+            "facts": [
+                "A mango tree can produce fruit for 40+ years.",
+                "India grows over 1,000 mango varieties, from Alphonso to Dasheri."
+            ],
+            "grows": [
+                "Tropical and subtropical",
+                "Deep, well-drained soil",
+                "Dry spell before flowering helps fruit set"
+            ],
+            "hindi": "आम",
+            "hue": 40,
+            "motif": "fruit",
+            "name": "Mango",
+            "slug": "mango",
+            "tagline": "The king of fruits, crowned every summer.",
+            "tagline_hi": "फलों का राजा, हर गर्मी में ताजपोशी।",
+            "uses": [
+                "Fresh eating, aamras and lassi",
+                "Pickles from raw mangoes",
+                "Wood and shade from the tree"
+            ]
+        },
+        {
+            "binomial": "Musa acuminata",
+            "care": [
+                "Keep soil consistently moist",
+                "Remove suckers, keep 2–3 stems",
+                "Support bunches in windy areas"
+            ],
+            "cat": "fruits",
+            "desc": "The banana 'tree' is actually the world's largest herb — its trunk is tightly wrapped leaf bases. Bunches emerge from the heart of the crown, curving upward toward the sun.",
+            "facts": [
+                "Bananas are berries; strawberries, botanically, are not.",
+                "Wild bananas are full of hard seeds; cultivated ones are seedless."
+            ],
+            "grows": [
+                "Hot, humid tropics",
+                "Rich, moist soil",
+                "High water needs"
+            ],
+            "hindi": "केला",
+            "hue": 50,
+            "motif": "fruit",
+            "name": "Banana",
+            "slug": "banana",
+            "tagline": "The giant herb's curved gift.",
+            "tagline_hi": "विशाल शाक का मुड़ा हुआ उपहार।",
+            "uses": [
+                "Fresh fruit and banana chips",
+                "Leaves as eco-friendly plates",
+                "Stem and flower as vegetables"
+            ]
+        },
+        {
+            "binomial": "Psidium guajava",
+            "care": [
+                "Prune to keep a manageable canopy",
+                "Water deeply but infrequently",
+                "Bag fruits to protect from fruit fly"
+            ],
+            "cat": "fruits",
+            "desc": "Guava is the unfussy orchard tree — it fruits young, fruits often, and shrugs off neglect. Cut one open to find pink or white flesh studded with tiny hard seeds around a sweet heart.",
+            "facts": [
+                "One guava can hold four times the vitamin C of an orange.",
+                "Guava leaves are brewed as a traditional digestive tea."
+            ],
+            "grows": [
+                "Tropical and subtropical",
+                "Tolerates varied soils",
+                "Drought-tolerant once established"
+            ],
+            "hindi": "अमरूद",
+            "hue": 95,
+            "motif": "fruit",
+            "name": "Guava",
+            "slug": "guava",
+            "tagline": "The hardy orchard fruit with a fragrant heart.",
+            "tagline_hi": "सुगंधित दिल वाला मज़बूत बाग़ी फल।",
+            "uses": [
+                "Fresh with chaat masala",
+                "Juices, jams and jellies",
+                "Leaves in herbal teas"
+            ]
+        },
+        {
+            "binomial": "Curcuma longa",
+            "care": [
+                "Plant rhizome pieces in warm soil",
+                "Keep moist through the monsoon",
+                "Harvest when leaves dry, 8–10 months"
+            ],
+            "cat": "spices",
+            "desc": "Turmeric hides its gold underground. The plant's broad leaves look like a small banana grove; below, orange rhizomes wait to be boiled, dried and ground into the spice that colours half the world's curries.",
+            "facts": [
+                "Turmeric's colour comes from curcumin, studied for anti-inflammatory properties.",
+                "It takes about 5 kg of fresh rhizome to make 1 kg of powder."
+            ],
+            "grows": [
+                "Warm, humid climate",
+                "Loose, rich soil",
+                "150+ cm rainfall or irrigation"
+            ],
+            "hindi": "हल्दी",
+            "hue": 42,
+            "motif": "root",
+            "name": "Turmeric",
+            "slug": "turmeric",
+            "tagline": "Underground gold that colours the curry.",
+            "tagline_hi": "ज़मीन के नीचे का सोना जो करी को रंग देता है।",
+            "uses": [
+                "Curry powder's golden base",
+                "Ayurvedic and home remedies",
+                "Natural dye for cloth and food"
+            ]
+        },
+        {
+            "binomial": "Cuminum cyminum",
+            "care": [
+                "Sow in cool, dry weather",
+                "Avoid overhead watering — blight risk",
+                "Harvest when plants turn brown"
+            ],
+            "cat": "spices",
+            "desc": "Cumin grows as a delicate, feathery annual barely knee-high, yet its tiny ridged seeds carry the warm, earthy aroma of tadkas, garam masala and street chaat.",
+            "facts": [
+                "Cumin seeds are actually dried fruits, each holding one seed.",
+                "It was found in 4,000-year-old Egyptian tombs."
+            ],
+            "grows": [
+                "Cool, dry rabi season",
+                "Sandy loam, good drainage",
+                "Low humidity preferred"
+            ],
+            "hindi": "जीरा",
+            "hue": 38,
+            "motif": "flower",
+            "name": "Cumin",
+            "slug": "cumin",
+            "tagline": "Tiny seeds, the soul of the tadka.",
+            "tagline_hi": "छोटे दाने, तड़के की जान।",
+            "uses": [
+                "Tempering dals and curries",
+                "Jeera rice and buttermilk",
+                "Garam masala blends"
+            ]
+        },
+        {
+            "binomial": "Elettaria cardamomum",
+            "care": [
+                "Needs 50% shade — grow under trees",
+                "Mulch heavily; keep roots cool",
+                "Pick capsules as they ripen, in rounds"
+            ],
+            "cat": "spices",
+            "desc": "Cardamom, the queen of spices, grows in misty mountain shade on tall reed-like stems. Its green pods hide intensely fragrant black seeds — a little perfumes a whole pot of chai.",
+            "facts": [
+                "Cardamom is the world's third most expensive spice, after saffron and vanilla.",
+                "Wild elephants disperse its seeds in Western Ghats forests."
+            ],
+            "grows": [
+                "Cool, misty hills; 10–35°C",
+                "Rich forest loam, constant moisture",
+                "150–250 cm rainfall"
+            ],
+            "hindi": "इलायची",
+            "hue": 100,
+            "motif": "pod",
+            "name": "Cardamom",
+            "slug": "cardamom",
+            "tagline": "The queen of spices from misty hills.",
+            "tagline_hi": "धुंधली पहाड़ियों से मसालों की रानी।",
+            "uses": [
+                "Chai, kheer and biryani",
+                "Mouth freshener and paan",
+                "Perfumery and ayurvedic tonics"
+            ]
+        },
+        {
+            "binomial": "Gossypium hirsutum",
+            "care": [
+                "Sow after soil warms above 18°C",
+                "One deep watering beats many shallow ones",
+                "Pick bolls as they open to keep lint clean"
+            ],
+            "cat": "cash-crops",
+            "desc": "Cotton's magic is in the boll — a pod that bursts into soft white fluff, each fibre a single elongated seed hair. That cloud becomes the thread of t-shirts and saris.",
+            "facts": [
+                "One cotton boll holds about 250,000 fibres.",
+                "Cotton fibre is 95% cellulose — almost pure."
+            ],
+            "grows": [
+                "Warm season, 180+ frost-free days",
+                "Deep black cotton soils ideal",
+                "60–120 cm rainfall"
+            ],
+            "hindi": "कपास",
+            "hue": 180,
+            "motif": "flower",
+            "name": "Cotton",
+            "slug": "cotton",
+            "tagline": "Clouds in a boll, thread for the world.",
+            "tagline_hi": "डोडे में बादल, दुनिया के लिए धागा।",
+            "uses": [
+                "Textiles — from khadi to denim",
+                "Cottonseed oil for cooking",
+                "Seed cake as cattle feed"
+            ]
+        },
+        {
+            "binomial": "Saccharum officinarum",
+            "care": [
+                "Plant cane setts in furrows",
+                "Earth up as shoots grow tall",
+                "Harvest at 10–12 months when sweetest"
+            ],
+            "cat": "cash-crops",
+            "desc": "Sugarcane is a giant grass whose jointed stalks store pure sweetness. Chew a stalk and you taste sunshine converted to sugar — the same sweetness that fills mills at harvest season.",
+            "facts": [
+                "Sugarcane can grow 5 metres tall in a single season.",
+                "Bagasse, the crushed stalk, fuels the sugar mill itself."
+            ],
+            "grows": [
+                "Hot, sunny tropics",
+                "Rich loam with plenty of water",
+                "150+ cm water across season"
+            ],
+            "hindi": "गन्ना",
+            "hue": 95,
+            "motif": "grass",
+            "name": "Sugarcane",
+            "slug": "sugarcane",
+            "tagline": "Sweet stalks of a giant grass.",
+            "tagline_hi": "विशाल घास के मीठे तने।",
+            "uses": [
+                "Sugar, jaggery and khandsari",
+                "Fresh cane juice",
+                "Bagasse for paper and power"
+            ]
+        },
+        {
+            "binomial": "Camellia sinensis",
+            "care": [
+                "Pluck the top two leaves and a bud",
+                "Prune to a waist-high table",
+                "Shade young plants in hot zones"
+            ],
+            "cat": "cash-crops",
+            "desc": "Tea is an evergreen shrub kept pruned to a neat picking table on misty hillsides. Every cup — green, black or oolong — begins as the same tender top leaves, transformed by withering and rolling.",
+            "facts": [
+                "Tea is the world's most drunk beverage after water.",
+                "The same leaf makes green, black and oolong tea — processing differs."
+            ],
+            "grows": [
+                "Cool highlands, 13–30°C",
+                "Acidic, well-drained soils",
+                "150–250 cm rainfall"
+            ],
+            "hindi": "चाय",
+            "hue": 130,
+            "motif": "leaf",
+            "name": "Tea",
+            "slug": "tea",
+            "tagline": "Misty hillsides in a cup.",
+            "tagline_hi": "प्याले में धुंधली पहाड़ियाँ।",
+            "uses": [
+                "Chai, green and black teas",
+                "Tea tourism on estates",
+                "Caffeine and antioxidants"
+            ]
+        },
+        {
+            "binomial": "Medicago sativa",
+            "care": [
+                "Sow in well-prepared fine seedbed",
+                "Cut at early bloom for best protein",
+                "Leave 4–5 cm stubble to regrow"
+            ],
+            "cat": "fodder-crops",
+            "desc": "Alfalfa, or rizka, is the queen of fodders — a deep-rooted legume cut again and again through the season. Its purple flower spikes feed bees while its leaves pack protein for dairy animals.",
+            "facts": [
+                "Alfalfa roots can reach 4–5 metres deep.",
+                "It fixes nitrogen, enriching soil for the next crop."
+            ],
+            "grows": [
+                "Cool to warm seasons",
+                "Deep, well-drained soil",
+                "Regular irrigation"
+            ],
+            "hindi": "रिज़का",
+            "hue": 110,
+            "motif": "grass",
+            "name": "Alfalfa",
+            "slug": "alfalfa",
+            "tagline": "The protein-rich queen of fodders.",
+            "tagline_hi": "चारे की प्रोटीन-भरी रानी।",
+            "uses": [
+                "Green fodder and hay for dairy cattle",
+                "Silage for lean seasons",
+                "Honey from its purple blooms"
+            ]
+        },
+        {
+            "binomial": "Pennisetum purpureum",
+            "care": [
+                "Plant stem cuttings at monsoon onset",
+                "Cut every 45–60 days at 1 m height",
+                "Apply manure after each cut"
+            ],
+            "cat": "fodder-crops",
+            "desc": "Napier grass is a fodder giant — thick clumps of tall stems that can be cut five or six times a year. Chop-and-carry farmers rely on it to keep buffaloes milking through every season.",
+            "facts": [
+                "Hybrid napier can yield 200+ tonnes of green fodder per hectare yearly.",
+                "It is also planted as a trap crop for stem borers in maize."
+            ],
+            "grows": [
+                "Warm, humid climate",
+                "Fertile soil with water",
+                "High water and nutrient needs"
+            ],
+            "hindi": "नेपियर घास",
+            "hue": 105,
+            "motif": "grass",
+            "name": "Napier Grass",
+            "slug": "napier-grass",
+            "tagline": "The cut-and-come-again fodder giant.",
+            "tagline_hi": "काटो और फिर उगाओ — चारे का दानव।",
+            "uses": [
+                "Chopped green fodder for buffaloes",
+                "Silage banks for summer",
+                "Erosion control on bunds"
+            ]
+        },
+        {
+            "binomial": "Vigna unguiculata",
+            "care": [
+                "Sow with monsoon rains",
+                "Support climbing types on sticks",
+                "Pick pods young for vegetable use"
+            ],
+            "cat": "fodder-crops",
+            "desc": "Cowpea, or lobia, is the multitasker of the monsoon field — its young pods are a vegetable, its dry seeds a pulse, and its leafy vines excellent fodder. Goats follow it like fans.",
+            "facts": [
+                "Cowpea tolerates heat and drought better than most legumes.",
+                "It matures grain in as little as 60 days."
+            ],
+            "grows": [
+                "Hot kharif season",
+                "Tolerates sandy, poor soils",
+                "Low to moderate rainfall"
+            ],
+            "hindi": "लोबिया",
+            "hue": 90,
+            "motif": "pod",
+            "name": "Cowpea",
+            "slug": "cowpea",
+            "tagline": "One plant: vegetable, pulse and fodder.",
+            "tagline_hi": "एक पौधा: सब्ज़ी, दाल और चारा।",
+            "uses": [
+                "Lobia curry and salads",
+                "Vines as nutritious fodder",
+                "Green manure cover crop"
+            ]
+        },
+        {
+            "binomial": "Aloe vera",
+            "care": [
+                "Plant in sandy, fast-draining mix",
+                "Water deeply, then let dry fully",
+                "Repot pups into their own pots"
+            ],
+            "cat": "medicinal-plants",
+            "desc": "Aloe vera stores water in its thick, serrated leaves — a desert survival trick that also gives us the cooling gel inside. Snap a leaf and the clear gel is ready for skin and hair.",
+            "facts": [
+                "Aloe gel is 99% water, plus vitamins and enzymes.",
+                "It closes its leaf pores at night to save water — a CAM plant."
+            ],
+            "grows": [
+                "Hot, dry climates",
+                "Sandy, well-drained soil",
+                "Very low water needs"
+            ],
+            "hindi": "घृतकुमारी",
+            "hue": 130,
+            "motif": "leaf",
+            "name": "Aloe Vera",
+            "slug": "aloe-vera",
+            "tagline": "Desert leaves hiding cooling gel.",
+            "tagline_hi": "रेगिस्तानी पत्तों में छिपा ठंडक वाला जेल।",
+            "uses": [
+                "Gel for burns and skincare",
+                "Juices and health drinks",
+                "Ornamental succulent pots"
+            ]
+        },
+        {
+            "binomial": "Ocimum tenuiflorum",
+            "care": [
+                "Sow in warm soil after spring",
+                "Pinch flowers to keep leaves coming",
+                "Protect from frost; mulch in winter"
+            ],
+            "cat": "medicinal-plants",
+            "desc": "Tulsi grows in courtyards and temples across India, its clove-scented leaves brewed into kadha at the first sign of a cold. Bees adore its tiny purple-white flower spikes.",
+            "facts": [
+                "Tulsi is an adaptogen, traditionally used against stress.",
+                "Its scent comes from eugenol — also found in cloves."
+            ],
+            "grows": [
+                "Warm season",
+                "Well-drained fertile soil",
+                "Regular watering"
+            ],
+            "hindi": "तुलसी",
+            "hue": 140,
+            "motif": "leaf",
+            "name": "Tulsi",
+            "slug": "tulsi",
+            "tagline": "The sacred basil of courtyards and kadha.",
+            "tagline_hi": "आँगन और काढ़े की पवित्र तुलसी।",
+            "uses": [
+                "Herbal tea and kadha",
+                "Ayurvedic formulations",
+                "Sacred plant in homes and temples"
+            ]
+        },
+        {
+            "binomial": "Withania somnifera",
+            "care": [
+                "Sow in nursery, transplant at rains",
+                "Needs little water once established",
+                "Harvest roots after leaves yellow"
+            ],
+            "cat": "medicinal-plants",
+            "desc": "Ashwagandha is a modest shrub with dull green leaves and orange-red berries — but its roots are the star, dried and powdered as one of Ayurveda's most famous rejuvenating herbs.",
+            "facts": [
+                "Its name means 'smell of a horse' — said to impart stallion strength.",
+                "It is now studied worldwide for stress and sleep."
+            ],
+            "grows": [
+                "Dry, subtropical climate",
+                "Sandy loam, good drainage",
+                "Low water needs"
+            ],
+            "hindi": "अश्वगंधा",
+            "hue": 25,
+            "motif": "root",
+            "name": "Ashwagandha",
+            "slug": "ashwagandha",
+            "tagline": "Humble shrub, legendary root.",
+            "tagline_hi": "विनम्र झाड़ी, प्रसिद्ध जड़।",
+            "uses": [
+                "Ayurvedic churna and capsules",
+                "Stress and sleep formulations",
+                "Growing export crop"
+            ]
+        },
+        {
+            "binomial": "Tagetes erecta",
+            "care": [
+                "Pinch seedlings for bushier plants",
+                "Deadhead to extend blooming",
+                "Sow successively for festival supply"
+            ],
+            "cat": "ornamental-flowers",
+            "desc": "Marigold's pom-pom blooms in marigold-orange and yellow are the flowers of Indian celebration — strung into torans, offered at temples, and brightening winter gardens everywhere.",
+            "facts": [
+                "Marigold roots repel nematodes — farmers plant them as guards.",
+                "Its petals are edible and used as natural food colour."
+            ],
+            "grows": [
+                "Cool winter season in plains",
+                "Well-drained soil, full sun",
+                "Regular watering"
+            ],
+            "hindi": "गेंदा",
+            "hue": 40,
+            "motif": "flower",
+            "name": "Marigold",
+            "slug": "marigold",
+            "tagline": "The festival flower of torans and temples.",
+            "tagline_hi": "तोरण और मंदिरों का त्योहारी फूल।",
+            "uses": [
+                "Garlands and festive decoration",
+                "Companion planting against pests",
+                "Natural yellow dye"
+            ]
+        },
+        {
+            "binomial": "Rosa damascena",
+            "care": [
+                "Prune hard in winter dormancy",
+                "Feed monthly in growing season",
+                "Watch for aphids and black spot"
+            ],
+            "cat": "ornamental-flowers",
+            "desc": "The rose needs little introduction — layered petals, thorned stems, and a perfume that launched industries. Damask roses fill Kannauj's fields for attar; garden roses fill vases.",
+            "facts": [
+                "Rose hips have more vitamin C than citrus.",
+                "Attar of roses takes 4 tonnes of petals per litre of oil."
+            ],
+            "grows": [
+                "Cool to mild climates",
+                "Rich, well-drained soil",
+                "Deep weekly watering"
+            ],
+            "hindi": "गुलाब",
+            "hue": 345,
+            "motif": "flower",
+            "name": "Rose",
+            "slug": "rose",
+            "tagline": "Thorns guarding the queen of flowers.",
+            "tagline_hi": "फूलों की रानी की रखवाली करते काँटे।",
+            "uses": [
+                "Cut flowers and bouquets",
+                "Rose water, attar and gulkand",
+                "Hips for vitamin-C teas"
+            ]
+        },
+        {
+            "binomial": "Hibiscus rosa-sinensis",
+            "care": [
+                "Prune after flowering flushes",
+                "Feed with potassium for blooms",
+                "Bring indoors before frost"
+            ],
+            "cat": "ornamental-flowers",
+            "desc": "Hibiscus trumpets open for a single glorious day — huge, papery blooms in reds and pinks, each with a dramatic central column of stamens. Then it simply makes another.",
+            "facts": [
+                "Hibiscus flowers are edible — used in teas and salads.",
+                "In many places each bloom lasts just one day."
+            ],
+            "grows": [
+                "Tropical and subtropical",
+                "Moist, fertile soil",
+                "Full sun to part shade"
+            ],
+            "hindi": "गुड़हल",
+            "hue": 350,
+            "motif": "flower",
+            "name": "Hibiscus",
+            "slug": "hibiscus",
+            "tagline": "One-day trumpets, endless encore.",
+            "tagline_hi": "एक दिन के तुरही फूल, अनंत प्रस्तुति।",
+            "uses": [
+                "Garden hedges and pots",
+                "Hibiscus tea and hair oils",
+                "Offered in Devi worship"
+            ]
+        },
+        {
+            "binomial": "Epipremnum aureum",
+            "care": [
+                "Bright indirect light is perfect",
+                "Let soil dry between waterings",
+                "Trim long vines to bush out"
+            ],
+            "cat": "ornamental-plants",
+            "desc": "The money plant is the survivor of indoor gardening — heart-shaped leaves trailing from a bottle of water on countless office desks. It roots from almost any cutting.",
+            "facts": [
+                "NASA listed it among top air-purifying plants.",
+                "It can grow in just water for months."
+            ],
+            "grows": [
+                "Indoors, warm and humid",
+                "Any potting mix",
+                "Low to medium light"
+            ],
+            "hindi": "मनी प्लांट",
+            "hue": 120,
+            "motif": "leaf",
+            "name": "Money Plant",
+            "slug": "money-plant",
+            "tagline": "The unkillable desk companion.",
+            "tagline_hi": "न मरने वाला डेस्क साथी।",
+            "uses": [
+                "Indoor decoration and gifting",
+                "Air-purifying greenery",
+                "Beginner plant parenting"
+            ]
+        },
+        {
+            "binomial": "Sansevieria trifasciata",
+            "care": [
+                "Water sparingly — monthly is fine",
+                "Tolerates dark corners",
+                "Repot only when bursting the pot"
+            ],
+            "cat": "ornamental-plants",
+            "desc": "The snake plant stands like a cluster of swords — stiff, upright, patterned leaves that thrive on neglect. It is the plant you buy for someone who kills plants.",
+            "facts": [
+                "It converts CO2 at night, unlike most plants.",
+                "It can survive weeks without water."
+            ],
+            "grows": [
+                "Indoors or dry shade",
+                "Sandy, fast-draining mix",
+                "Very drought tolerant"
+            ],
+            "hindi": "स्नेक प्लांट",
+            "hue": 115,
+            "motif": "leaf",
+            "name": "Snake Plant",
+            "slug": "snake-plant",
+            "tagline": "Swords that thrive on neglect.",
+            "tagline_hi": "लापरवाही में पनपने वाली तलवारें।",
+            "uses": [
+                "Bedroom and office greenery",
+                "Low-maintenance landscaping",
+                "Fibre from leaves in some regions"
+            ]
+        },
+        {
+            "binomial": "Dypsis lutescens",
+            "care": [
+                "Bright indirect light",
+                "Keep soil evenly moist",
+                "Mist leaves in dry air"
+            ],
+            "cat": "ornamental-plants",
+            "desc": "The areca palm brings the tropics indoors — feathery fronds arching from clustered golden stems. Offices and malls love it; so do cats, since it is non-toxic to pets.",
+            "facts": [
+                "It is one of the most popular indoor palms worldwide.",
+                "In the wild it can reach 10 metres tall."
+            ],
+            "grows": [
+                "Warm, humid indoors",
+                "Rich potting mix",
+                "Bright filtered light"
+            ],
+            "hindi": "अरेका पाम",
+            "hue": 125,
+            "motif": "leaf",
+            "name": "Areca Palm",
+            "slug": "areca-palm",
+            "tagline": "A pocket of tropics for your living room.",
+            "tagline_hi": "आपके लिविंग रूम के लिए उष्णकटिबंध की झलक।",
+            "uses": [
+                "Indoor statement plant",
+                "Natural humidifier",
+                "Pet-safe greenery"
+            ]
+        },
+        {
+            "binomial": "Azadirachta indica",
+            "care": [
+                "Plant saplings at monsoon onset",
+                "Needs no care once established",
+                "Prune for a clean trunk"
+            ],
+            "cat": "trees",
+            "desc": "Neem is the village pharmacy — bitter leaves, oil-rich seeds, and bark used in remedies for centuries. Its light shade cools courtyards while its flowers feed bees.",
+            "facts": [
+                "Neem oil's azadirachtin disrupts insect growth — a natural pesticide.",
+                "A mature neem can live 200 years."
+            ],
+            "grows": [
+                "Hot, dry to humid tropics",
+                "Tolerates poor soils",
+                "Drought hardy"
+            ],
+            "hindi": "नीम",
+            "hue": 110,
+            "motif": "tree",
+            "name": "Neem",
+            "slug": "neem",
+            "tagline": "The village pharmacy in tree form.",
+            "tagline_hi": "पेड़ के रूप में गाँव की फार्मेसी।",
+            "uses": [
+                "Neem oil as biopesticide",
+                "Twigs as traditional toothbrushes",
+                "Shade and timber"
+            ]
+        },
+        {
+            "binomial": "Ficus benghalensis",
+            "care": [
+                "Give it enormous space",
+                "Aerial roots need room to descend",
+                "Minimal pruning needed"
+            ],
+            "cat": "trees",
+            "desc": "The banyan begins as a seed in a crack and becomes a forest unto itself — aerial roots descending to form new trunks until one tree covers an acre. Village councils met under banyans for centuries.",
+            "facts": [
+                "Some banyans cover over 4 acres — among the world's widest canopies.",
+                "It is India's national tree."
+            ],
+            "grows": [
+                "Tropical, frost-free",
+                "Adaptable soils",
+                "Deep roots find water"
+            ],
+            "hindi": "बरगद",
+            "hue": 115,
+            "motif": "tree",
+            "name": "Banyan",
+            "slug": "banyan",
+            "tagline": "One tree that becomes a forest.",
+            "tagline_hi": "एक पेड़ जो जंगल बन जाता है।",
+            "uses": [
+                "Sacred and community gathering shade",
+                "Aerial-root walking trails",
+                "Wildlife habitat and figs"
+            ]
+        },
+        {
+            "binomial": "Ficus religiosa",
+            "care": [
+                "Plant away from buildings",
+                "Water young trees regularly",
+                "Sacred — prune respectfully"
+            ],
+            "cat": "trees",
+            "desc": "The peepal's heart-shaped leaves tremble in the slightest breeze, making a soft rustling music. Sacred to Buddhists, Hindus and Jains, ancient peepals anchor countless village shrines.",
+            "facts": [
+                "The Buddha attained enlightenment under a peepal (bodhi tree).",
+                "Its leaves flutter due to long, flexible stalks."
+            ],
+            "grows": [
+                "Tropical plains",
+                "Tolerates varied soils",
+                "Hardy once established"
+            ],
+            "hindi": "पीपल",
+            "hue": 120,
+            "motif": "tree",
+            "name": "Peepal",
+            "slug": "peepal",
+            "tagline": "The trembling leaves of the bodhi tree.",
+            "tagline_hi": "बोधि वृक्ष के काँपते पत्ते।",
+            "uses": [
+                "Sacred worship and festivals",
+                "Daytime oxygen, night rest",
+                "Figs feeding birds and bats"
+            ]
+        }
+    ],
+    "site": {
+        "name": "Fasal",
+        "name_hi": "फ़सल",
+        "tagline": "Field notes on the crops behind everyday life.",
+        "tagline_hi": "रोज़मर्रा के जीवन के पीछे की फ़सलों पर फ़ील्ड नोट्स।"
+    }
+}
